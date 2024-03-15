@@ -2703,7 +2703,7 @@ input, select, textarea {
 				padding-top: 0;
 			}
 
-				#main > section-large {
+				#main > section.large {
 					border-top: solid 2px #efefef;
 					margin: 14em 0 0 0;
 					padding: 4em 0 0 0;
